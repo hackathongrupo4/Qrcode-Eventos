@@ -6,6 +6,7 @@ import android.os.Bundle;
 
 import com.example.janela.gestao.de.presenca.R;
 
+
 public class MeuQrCode extends AppCompatActivity {
 
     @Override
